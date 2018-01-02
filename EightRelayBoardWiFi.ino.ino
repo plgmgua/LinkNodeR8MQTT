@@ -7,7 +7,7 @@
  
 // Connect to the WiFi
 const char* ssid = "EL_MUNDO_DE_SOFIA";
-const char* password = "LagunaLaChua";
+const char* password = "XXXXXXX";
 const char* mqttServer = "192.168.8.2";
 const int mqttPort = 1883;
 
